@@ -18,5 +18,6 @@ public class SnippingSelenium {
         FileUtils.copyFile(file,new File("C:\\Users\\18327\\Desktop\\myScreenShot2.bmp"));
 
 
+
     }
 }
